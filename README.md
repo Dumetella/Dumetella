@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Dumetella
-- 👀 I’m interested in learning modern front-end.
-- 🌱 I’m currently learning React.
+# Hi, I am Dumetella <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### My name is Nick, I am a Frontend Developer and mainly work with React/Next.js techstack.
 
-<!---
-Dumetella/Dumetella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📚 I'm currently learning Java/Kotlin on Udacity.
+- 🥅 My goal is to create MVP android application for personal project.
+
+More about my projects on my [github.io](https://dumetella.github.io/)
+
+<!-- -->
